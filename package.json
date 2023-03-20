@@ -1,0 +1,12 @@
+{
+  "name": "doritos_landing_page",
+  "version": "1.0.0",
+  "description": "Made a simple Dorito landing Page with the help of HTML,CSS,Javascript. ![image](https://user-images.githubusercontent.com/81870866/182208841-040d927d-afd7-4b34-8c6d-3f7b7512609a.png) You can view it here  https://doritoschips.netlify.app/",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
